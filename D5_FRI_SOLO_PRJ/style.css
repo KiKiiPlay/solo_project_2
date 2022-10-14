@@ -1,0 +1,56 @@
+table,
+tr,
+td {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+img {
+  width: 150px;
+}
+
+body {
+  max-width: 400px;
+  margin-inline: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+a {
+  color: blueviolet;
+}
+
+.borderClass {
+  border: 1px solid black;
+}
+
+p {
+  margin: 10px;
+  text-align: center;
+}
+
+.fontUpdate {
+  font-size: 20px;
+  font-weight: 900;
+}
+
+.hideContent {
+  visibility: hidden;
+}
+
+td {
+  border: 1px solid green;
+}
+
+tr {
+  border: 1pt dotted red;
+  display: inline-block;
+}
+
+footer {
+  margin: 0;
+  text-align: center;
+  background-color: grey;
+}
